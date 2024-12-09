@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ODataMemoryLeak/CopilotIndices/17.12.38.29086
+/.vs/ODataMemoryLeak
+/ODataMemoryLeak/obj/ODataMemoryLeak.csproj.nuget.dgspec.json
+/ODataMemoryLeak/obj/project.assets.json
+/ODataMemoryLeak/obj/project.nuget.cache
+/ODataMemoryLeak/obj/Debug/net9.0/ODataMemoryLeak.AssemblyInfo.cs
+/ODataMemoryLeak/obj/Debug/net9.0/ODataMemoryLeak.AssemblyInfoInputs.cache
+/ODataMemoryLeak/obj/Debug/net9.0/ODataMemoryLeak.assets.cache
+/ODataMemoryLeak/obj/Debug/net9.0/ODataMemoryLeak.csproj.AssemblyReference.cache
+/ODataMemoryLeak/obj/Debug/net9.0/ODataMemoryLeak.GeneratedMSBuildEditorConfig.editorconfig
